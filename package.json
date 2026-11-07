@@ -1,0 +1,14 @@
+{
+  "name": "api-inventory-it",
+  "version": "1.0.0",
+  "description": "Backend mock con json-server + json-server-auth para app CRUD inventario IT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}

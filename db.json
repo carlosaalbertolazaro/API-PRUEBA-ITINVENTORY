@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin1",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "carlos",
+      "password": "dellpro",
+      "role": "user"
+    },
+    {
+      "email": "carlos@correo.com",
+      "password": "$2a$10$9sV9jpp3ipmaRxvSHWP2qu7gj0RWc1AEOE6m3SZ0I3F2wPYM2tSzy",
+      "id": 3
+    },
+    {
+      "email": "usuariotest@correo.com",
+      "password": "$2a$10$ovz00Nc.3p3DCrLA8FT75uzHIK3625Q8Gvra9bx05qbh2qOZGTtoq",
+      "id": 4
+    }
+  ],
+  "equipos": [
+    {
+      "id": 1,
+      "numeroSerie": "SN-DELL-001",
+      "marca": "Dell",
+      "modelo": "OptiPlex 7090",
+      "fechaAdquisicion": "2023-03-15",
+      "estado": "DISPONIBLE",
+      "numeroInventario": 1001,
+      "ubicacion": "Oficina 101 - Sistemas"
+    },
+    {
+      "id": 2,
+      "numeroSerie": "SN-HP-002",
+      "marca": "HP",
+      "modelo": "ProDesk 600 G6",
+      "fechaAdquisicion": "2022-11-20",
+      "estado": "EN_USO",
+      "numeroInventario": 1002,
+      "ubicacion": "Oficina 102 - Admin"
+    },
+    {
+      "id": 3,
+      "numeroSerie": "SN-LENOVO-003",
+      "marca": "Lenovo",
+      "modelo": "ThinkCentre M70q",
+      "fechaAdquisicion": "2024-01-10",
+      "estado": "MANTENIMIENTO",
+      "numeroInventario": 1003,
+      "ubicacion": "Bodega de repuestos"
+    }
+  ]
+}
