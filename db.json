@@ -2,14 +2,16 @@
   "users": [
     {
       "id": 1,
+      "email": "admin@inventory.local",
       "username": "admin",
-      "password": "admin1",
+      "password": "$2a$10$c3vhd8p..wI4HnxUrOdA5OldyWOwwoQuQNwIrN3YzHnXY5rxA8fjO",
       "role": "admin"
     },
     {
       "id": 2,
+      "email": "carlos@inventory.local",
       "username": "carlos",
-      "password": "dellpro",
+      "password": "$2a$10$p.15rP71ItiZ/IIxf1XOIu9O.2e1Br0qwAvZ4cnU2uJjXtJuUN4ze",
       "role": "user"
     },
     {
